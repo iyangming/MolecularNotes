@@ -14,9 +14,8 @@ Topics:
 
 - Key idea 3
 - Key idea 4
-Author:
-Type: #source #
-Link: 
-Topics:
 
----
+
+using templates book 
+note
+using a book

@@ -1,57 +1,9 @@
 {
   "main": {
-    "id": "3fb98eb5577f9baa",
+    "id": "1aafb382db773197",
     "type": "split",
     "children": [
       {
-<<<<<<< Updated upstream
-        "id": "4fe1ac3108be7f02",
-        "type": "split",
-        "children": [
-          {
-            "id": "c471b4c062b0ecd3",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "0af7044d87785580",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "README.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "eff9642d849a27ae",
-                "type": "leaf",
-                "state": {
-                  "type": "diff-view",
-                  "state": {
-                    "staged": false,
-                    "file": "books.md"
-                  }
-                }
-              }
-            ],
-            "currentTab": 1
-          },
-          {
-            "id": "d78bc544f56267f6",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "ff5b21ae217265a3",
-                "type": "leaf",
-                "state": {
-                  "type": "mindmap",
-                  "state": {}
-                }
-              }
-            ]
-=======
         "id": "734da8bbf8ab48b4",
         "type": "tabs",
         "children": [
@@ -62,24 +14,22 @@
               "type": "empty",
               "state": {}
             }
->>>>>>> Stashed changes
           }
-        ],
-        "direction": "horizontal"
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "3592a3ecc475aa16",
+    "id": "8fd3a8c224129d77",
     "type": "split",
     "children": [
       {
-        "id": "2c8d9853f701873f",
+        "id": "40f9a4afdcbeeb38",
         "type": "tabs",
         "children": [
           {
-            "id": "c7fa3aa6f52d17fb",
+            "id": "ce55e4c4c096d639",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -89,7 +39,7 @@
             }
           },
           {
-            "id": "6019c575f6848bc9",
+            "id": "f37dbeb40d205eb2",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -104,7 +54,7 @@
             }
           },
           {
-            "id": "33894a85a3b681df",
+            "id": "ad3da9604eb4a321",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -118,15 +68,15 @@
     "width": 300
   },
   "right": {
-    "id": "0ba768dc5ffdd0d9",
+    "id": "bb50071e8570e8e7",
     "type": "split",
     "children": [
       {
-        "id": "b9757ef08d829545",
+        "id": "37bc841f81bb81fd",
         "type": "tabs",
         "children": [
           {
-            "id": "42f204fbcf029cc9",
+            "id": "29c8da62ac6c3e57",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -142,7 +92,7 @@
             }
           },
           {
-            "id": "44803fb2c9dae2e2",
+            "id": "ae89e599a8e26872",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -153,7 +103,7 @@
             }
           },
           {
-            "id": "c17c1c37edfe4e88",
+            "id": "acfd047c743ec255",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -164,19 +114,19 @@
             }
           },
           {
-            "id": "899e442e7187c187",
+            "id": "6fe4b8a93662cb46",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -188,30 +138,10 @@
       "command-palette:打开命令面板": false
     }
   },
-<<<<<<< Updated upstream
-  "active": "eff9642d849a27ae",
-  "lastOpenFiles": [
-    "books.md",
-    "README.md",
-    "_templates/infomedia.md",
-    "_templates/book.md",
-    "_templates/author.md",
-    "_templates/atom.md",
-    "Molecules/Amazon and autocannibalism.md",
-    "_templates/molecule.md",
-    "_templates/textbook.md",
-    "_templates/topic.md",
-    "_attachments/logo.png",
-    "_templates/academic.md",
-    "Authors/Brad Stone.md",
-    "__OBSIDIAN_META__.md",
-    "Topics/Management.md"
-=======
   "active": "a2b4749e5df62df6",
   "lastOpenFiles": [
     "books.md",
     "README.md",
     "conflict-files-obsidian-git.md"
->>>>>>> Stashed changes
   ]
 }
