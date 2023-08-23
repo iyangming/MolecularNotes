@@ -4,6 +4,7 @@
     "type": "split",
     "children": [
       {
+<<<<<<< Updated upstream
         "id": "4fe1ac3108be7f02",
         "type": "split",
         "children": [
@@ -50,6 +51,18 @@
                 }
               }
             ]
+=======
+        "id": "734da8bbf8ab48b4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a2b4749e5df62df6",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+>>>>>>> Stashed changes
           }
         ],
         "direction": "horizontal"
@@ -175,6 +188,7 @@
       "command-palette:打开命令面板": false
     }
   },
+<<<<<<< Updated upstream
   "active": "eff9642d849a27ae",
   "lastOpenFiles": [
     "books.md",
@@ -192,5 +206,12 @@
     "Authors/Brad Stone.md",
     "__OBSIDIAN_META__.md",
     "Topics/Management.md"
+=======
+  "active": "a2b4749e5df62df6",
+  "lastOpenFiles": [
+    "books.md",
+    "README.md",
+    "conflict-files-obsidian-git.md"
+>>>>>>> Stashed changes
   ]
 }
