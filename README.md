@@ -136,3 +136,4 @@ I use tags to represent "is-a" relations (i.e types)
 	- trading-strat: a trading strategy
 	- instrument: a financial instrument
 
+note at 2023/8/23
