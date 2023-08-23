@@ -1,0 +1,201 @@
+{
+  "main": {
+    "id": "3fb98eb5577f9baa",
+    "type": "split",
+    "children": [
+      {
+        "id": "4fe1ac3108be7f02",
+        "type": "split",
+        "children": [
+          {
+            "id": "c471b4c062b0ecd3",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "0af7044d87785580",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "README.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "eff9642d849a27ae",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "books.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ],
+            "currentTab": 1
+          },
+          {
+            "id": "d78bc544f56267f6",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "ff5b21ae217265a3",
+                "type": "leaf",
+                "state": {
+                  "type": "mindmap",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3592a3ecc475aa16",
+    "type": "split",
+    "children": [
+      {
+        "id": "2c8d9853f701873f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c7fa3aa6f52d17fb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6019c575f6848bc9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "33894a85a3b681df",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0ba768dc5ffdd0d9",
+    "type": "split",
+    "children": [
+      {
+        "id": "b9757ef08d829545",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "42f204fbcf029cc9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "books.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "44803fb2c9dae2e2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "books.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c17c1c37edfe4e88",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "899e442e7187c187",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "books.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "eff9642d849a27ae",
+  "lastOpenFiles": [
+    "README.md",
+    "books.md",
+    "_templates/infomedia.md",
+    "_templates/book.md",
+    "_templates/author.md",
+    "_templates/atom.md",
+    "Molecules/Amazon and autocannibalism.md",
+    "_templates/molecule.md",
+    "_templates/textbook.md",
+    "_templates/topic.md",
+    "_attachments/logo.png",
+    "_templates/academic.md",
+    "Authors/Brad Stone.md",
+    "__OBSIDIAN_META__.md",
+    "Topics/Management.md"
+  ]
+}
